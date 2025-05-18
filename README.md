@@ -4,3 +4,4 @@ this is my first repository.
 author - chintu kumar
 add: - arvind nager (new delhi)
 distt fdk 
+i am not fully happen in summar
